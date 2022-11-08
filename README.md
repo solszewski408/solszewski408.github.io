@@ -1,3 +1,3 @@
 # solszewski408.github.io
 
-![zdjecie.jpg](zdjecia/zdjecie.jpg)
+![zdjecie.jpg](zdjecie.jpg)
