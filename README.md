@@ -8,3 +8,5 @@
 ![klon](klon.jpg)
 ### 1. choinka
 ![choinka](choinka.jpg)
+
+[link do stepika](stepik.com)
