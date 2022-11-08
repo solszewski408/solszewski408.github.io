@@ -9,4 +9,4 @@
 ### 1. choinka
 ![choinka](choinka.jpg)
 
-[link do stepika](https://stepik.com)
+[link do stepika](https://www.stepik.com/)
