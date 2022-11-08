@@ -2,9 +2,9 @@
 ![zdjecie.jpg](zdjecie.jpg)
 
 # top 3 drzew
-### 1. swierk
+### 3. swierk
 ![swierk](swierk.jpg)
-- 2. klon
+### 2.klon
 ![klon](klon.jpg)
-- 1. choinka
+### 1. choinka
 ![choinka](choinka.jpg)
