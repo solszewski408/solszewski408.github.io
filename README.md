@@ -10,3 +10,12 @@
 ![choinka](choinka.jpg)
 
 [link do stepika](https://www.stepik.com/)
+
+| tabelka | tabelka | tabelka | tabelka | tabelka | tabelka | tabelka | tabelka |
+|---|---|---|---|---|---|---|---|
+| tabelka | tabelka | tabelka | tabelka | tabelka | tabelka | tabelka | tabelka |
+| tabelka | tabelka | tabelka | tabelka | tabelka | tabelka | tabelka | tabelka |
+| tabelka | tabelka | tabelka | tabelka | tabelka | tabelka | tabelka | tabelka |
+| tabelka | tabelka | tabelka | tabelka | tabelka | tabelka | tabelka | tabelka |
+
+super tabelka bardzo ciekawa
